@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.4e85472b.css",
-    "main.js": "/static/js/main.a52b9c0f.js",
-    "static/js/787.1fac4dec.chunk.js": "/static/js/787.1fac4dec.chunk.js",
-    "static/media/2.jpg": "/static/media/2.443d45a6290fa1292b98.jpg",
-    "static/media/1.jpg": "/static/media/1.ce7e6800313d6182747b.jpg",
-    "index.html": "/index.html",
-    "main.4e85472b.css.map": "/static/css/main.4e85472b.css.map",
-    "main.a52b9c0f.js.map": "/static/js/main.a52b9c0f.js.map",
-    "787.1fac4dec.chunk.js.map": "/static/js/787.1fac4dec.chunk.js.map"
+    "main.css": "/fluent-electrical/static/css/main.4e85472b.css",
+    "main.js": "/fluent-electrical/static/js/main.0e068fe7.js",
+    "static/js/787.1fac4dec.chunk.js": "/fluent-electrical/static/js/787.1fac4dec.chunk.js",
+    "static/media/2.jpg": "/fluent-electrical/static/media/2.443d45a6290fa1292b98.jpg",
+    "static/media/1.jpg": "/fluent-electrical/static/media/1.ce7e6800313d6182747b.jpg",
+    "index.html": "/fluent-electrical/index.html",
+    "main.4e85472b.css.map": "/fluent-electrical/static/css/main.4e85472b.css.map",
+    "main.0e068fe7.js.map": "/fluent-electrical/static/js/main.0e068fe7.js.map",
+    "787.1fac4dec.chunk.js.map": "/fluent-electrical/static/js/787.1fac4dec.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4e85472b.css",
-    "static/js/main.a52b9c0f.js"
+    "static/js/main.0e068fe7.js"
   ]
 }
