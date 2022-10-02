@@ -12,6 +12,7 @@ import {
 import logo from "./logo.svg";
 import "./App.css";
 import Home from "./Home/Home";
+import Footer from "./Footer/Footer";
 
 const boldStyle: Partial<ITextStyles> = {
   root: { fontWeight: FontWeights.semibold },

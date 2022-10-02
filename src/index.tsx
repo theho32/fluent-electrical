@@ -3,7 +3,7 @@ import ReactDOM from "react-dom";
 import { App } from "./App";
 import { mergeStyles } from "@fluentui/react";
 import reportWebVitals from "./reportWebVitals";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { BrowserRouter, Routes, Route, HashRouter } from "react-router-dom";
 import About from "./About/About";
 import Contact from "./Contact/Contact";
 
@@ -17,7 +17,7 @@ mergeStyles({
 });
 
 ReactDOM.render(
-  <BrowserRouter>
+  <BrowserRouter basename={process.env.PUBLIC_URL}>
     <Routes>
       <Route path="/" element={<App />}></Route>
       <Route path="/About" element={<About />} />

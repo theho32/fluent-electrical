@@ -1,0 +1,17 @@
+a {
+    text-decoration:none;
+    color: white;
+}
+
+a:hover {
+   text-decoration:underline;
+}
+.primary-button {
+    background-color: #d40000;
+    border: black;
+}
+
+.logo {
+    max-width: 100%;
+    max-height: 100%;
+}

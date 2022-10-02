@@ -107,8 +107,8 @@ const About = () => {
               gravida.
             </Text>
           </Stack>
+          <Footer></Footer>
         </Stack>
-        <Footer></Footer>
       </Stack>
     </>
   );
