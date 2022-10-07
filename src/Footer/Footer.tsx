@@ -116,12 +116,10 @@ const Footer = () => {
                   <a href="tel://+505-793-6806">Cell: 505-793-6806</a>
                 </Text>
                 <Text variant="xLarge" style={{ color: "white" }}>
-                  <a href="tel://+505-793-6806">
-                    Email: ron.trophyridge@gmail.com
-                  </a>
+                  Email: ron.trophyridge@gmail.com
                 </Text>
                 <Text variant="xLarge" style={{ color: "white" }}>
-                  Address
+                  Address:
                 </Text>
                 <Text variant="xLarge" style={{ color: "white" }}>
                   PO Box 6402 Farmington, NM 87499

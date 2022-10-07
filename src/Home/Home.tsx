@@ -27,7 +27,6 @@ const Home = () => {
   return (
     <>
       <Stack verticalFill={true} className="home">
-        <Navigation></Navigation>
         <Stack verticalFill={true} style={{ paddingBottom: 60 }}>
           <Stack style={{ padding: 50 }}>
             <Stack horizontal={true}>

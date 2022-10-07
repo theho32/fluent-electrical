@@ -6,6 +6,8 @@ import reportWebVitals from "./reportWebVitals";
 import { BrowserRouter, Routes, Route, HashRouter } from "react-router-dom";
 import About from "./About/About";
 import Contact from "./Contact/Contact";
+import Navigation from "./Navigation/Navigation";
+import ScrollToTop from "./scrollToTop";
 
 // Inject some global styles
 mergeStyles({
@@ -18,8 +20,10 @@ mergeStyles({
 
 ReactDOM.render(
   <BrowserRouter basename={process.env.PUBLIC_URL}>
+    <ScrollToTop />
+    <Navigation></Navigation>
     <Routes>
-      <Route path="/" element={<App />}></Route>
+      <Route path="/" element={<App />} />
       <Route path="/About" element={<About />} />
       <Route path="/Contact" element={<Contact />} />
     </Routes>

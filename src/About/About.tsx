@@ -10,13 +10,13 @@ import {
   INavLinkGroup,
   PrimaryButton,
 } from "@fluentui/react";
+import { useEffect } from "react";
 import Footer from "../Footer/Footer";
 import Navigation from "../Navigation/Navigation";
 const About = () => {
   return (
     <>
       <Stack verticalFill={true}>
-        <Navigation></Navigation>
         <Stack verticalFill={true} style={{ paddingBottom: 60 }}>
           <Stack horizontal={true} horizontalAlign="center">
             <Text variant="mega">About</Text>
