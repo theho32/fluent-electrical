@@ -1,18 +1,25 @@
 {
   "files": {
-    "main.css": "/fluent-electrical/static/css/main.8d08fd11.css",
-    "main.js": "/fluent-electrical/static/js/main.791bf0e9.js",
+    "main.css": "/fluent-electrical/static/css/main.9b5c4a92.css",
+    "main.js": "/fluent-electrical/static/js/main.facd0ad9.js",
     "static/js/787.1fac4dec.chunk.js": "/fluent-electrical/static/js/787.1fac4dec.chunk.js",
-    "static/media/cooperAnnie.jpg": "/fluent-electrical/static/media/cooperAnnie.a52cab7ad1b6e08a8c3f.jpg",
-    "static/media/cooper.jpg": "/fluent-electrical/static/media/cooper.7b3d26e5c6c4b4bc3c6f.jpg",
+    "static/media/IMG_4170.jpg": "/fluent-electrical/static/media/IMG_4170.8d34732c4bd5388fc603.jpg",
+    "static/media/IMG_4166.jpg": "/fluent-electrical/static/media/IMG_4166.66ed7b659737269ba609.jpg",
+    "static/media/IMG_4168.jpg": "/fluent-electrical/static/media/IMG_4168.7e3e469d6f685486c711.jpg",
+    "static/media/IMG_4164.jpg": "/fluent-electrical/static/media/IMG_4164.a5d7d36fd757b976cd6e.jpg",
+    "static/media/Box.jpg": "/fluent-electrical/static/media/Box.dcb3baa8fb45331ec149.jpg",
+    "static/media/IMG_4172.jpg": "/fluent-electrical/static/media/IMG_4172.4cc60d0573dfc4ba5b6f.jpg",
+    "static/media/IMG_4167.jpg": "/fluent-electrical/static/media/IMG_4167.3223378bc1667fc28320.jpg",
+    "static/media/IMG_4171.jpg": "/fluent-electrical/static/media/IMG_4171.3f79761d4774238cd6bd.jpg",
+    "static/media/IMG_4169.jpg": "/fluent-electrical/static/media/IMG_4169.2772cf1955245ff32dc5.jpg",
     "static/media/white-logo-transparent.png": "/fluent-electrical/static/media/white-logo-transparent.023979ee16beb6e406b9.png",
     "index.html": "/fluent-electrical/index.html",
-    "main.8d08fd11.css.map": "/fluent-electrical/static/css/main.8d08fd11.css.map",
-    "main.791bf0e9.js.map": "/fluent-electrical/static/js/main.791bf0e9.js.map",
+    "main.9b5c4a92.css.map": "/fluent-electrical/static/css/main.9b5c4a92.css.map",
+    "main.facd0ad9.js.map": "/fluent-electrical/static/js/main.facd0ad9.js.map",
     "787.1fac4dec.chunk.js.map": "/fluent-electrical/static/js/787.1fac4dec.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8d08fd11.css",
-    "static/js/main.791bf0e9.js"
+    "static/css/main.9b5c4a92.css",
+    "static/js/main.facd0ad9.js"
   ]
 }
